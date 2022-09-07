@@ -1,0 +1,9 @@
+name: ChooseSize
+version: 0.0.1
+api: 4.0.0
+main: ShadowMikado\ChooseSize\Main
+author: ShadowMikado
+permissions:
+  choosesize.cmd:
+    default: op
+    description: /size
